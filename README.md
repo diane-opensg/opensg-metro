@@ -1,4 +1,5 @@
 # 지하철 노선도 프로젝트 - 개발 과제
+![chrome_n33vaMu8Lt](https://github.com/user-attachments/assets/ab0e218b-a5c3-4033-8b70-cb4465993d6f)
 
 React + TypeScript + Vite + Leaflet + Ant Design 으로 구현된 지하철 노선도 애플리케이션입니다.
 
